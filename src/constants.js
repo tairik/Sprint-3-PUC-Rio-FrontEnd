@@ -39,12 +39,12 @@ export const tableIconsConst = {
   
 //Definição da BaseURL para API PetDiet
 export const apiPetConst = axios.create({
-  baseURL: `http://localhost:5000/`
+  baseURL: `http://localhost:6000/`
 })
 
   //Definição da BaseURL para PetDiet Tutores API
 export const apiTutorConst = axios.create({
-  baseURL: `http://localhost:5001/`
+  baseURL: `http://localhost:6001/`
 })
 
 //Definição da BaseURL para API DogCEO
