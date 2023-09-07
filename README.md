@@ -1,4 +1,4 @@
-# Meu Front-End PetDiet
+# Front-End PetDiet
 
 Este pequeno projeto faz parte do MVP do curso de Pós-Gradução em **Engenharia de Software** 
 
